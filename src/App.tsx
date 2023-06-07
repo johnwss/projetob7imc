@@ -11,6 +11,10 @@ function App() {
 	<img src={poweredImage} width={150}/>
 	</div>
 	</header>
+	<div className={styles.container}>
+	<div className={styles.leftSide}>left</div>
+	<div className={styles.rightSide}>right</div>
+</div>
 </div>
   );
 }
