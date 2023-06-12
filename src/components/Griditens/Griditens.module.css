@@ -1,0 +1,15 @@
+.main {
+	flex:1;
+	color: white;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding: 20px;
+	}
+
+.gridIcon {
+	width: 70px;
+	height: 70px;
+}
